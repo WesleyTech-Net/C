@@ -14,6 +14,6 @@ int main() {
     double areaTotal = PI * raio * raio;
 
     printf("A area do circulo com raio %.2f e %2.f\n", raio, areaTotal);
-
+    
     return 0;
 }
